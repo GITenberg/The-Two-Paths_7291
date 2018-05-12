@@ -1,4 +1,8 @@
 _repo: The-Two-Paths_7291
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ruskin, John
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/359
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7291#The-Two-Paths
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
